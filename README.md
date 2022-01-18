@@ -3,7 +3,7 @@
 This figure is gotten from this link https://link.springer.com/chapter/10.1007/978-3-030-01449-0_24
 # LBP-Local-Binary-Pattern
 A simple code for processing images to local binary pattern.
-This code is put together for help researcher process their images into LBP. The good thing about this code is that it reads multiple images from a folder, process them into LBP, and save them in another folder. Few changes that needs to be done are: Just change the path to your folders. 
+This code is put together to help researcher process their images into LBP. The good thing about this code is that it reads multiple images from a folder, process them into LBP, and save them in another folder. Few changes that needs to be done are: Just change the path to your folders. 
 The result of the code is presented below:
 
 
